@@ -225,7 +225,7 @@ Transform:
   m_GameObject: {fileID: 311742718}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 6.35, y: -2.88, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -646,10 +646,8 @@ MonoBehaviour:
   speed: 4
   player: {fileID: 311742718}
   punto: {fileID: 1598156401}
-  referencia: {fileID: 1519812859}
   seekplayer: 5
-  rotationSpeedx: 5
-  rotationSpeedy: 5
+  rotationSpeed: 5
 --- !u!212 &1221813084
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -714,7 +712,7 @@ Transform:
   m_GameObject: {fileID: 1221813082}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.07, y: 3.27, z: 0}
+  m_LocalPosition: {x: -1.18, y: -0.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -864,7 +862,7 @@ Transform:
   m_GameObject: {fileID: 1598156400}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.07, y: 3.27, z: 0}
+  m_LocalPosition: {x: -1.18, y: -0.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
